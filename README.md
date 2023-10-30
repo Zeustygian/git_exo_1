@@ -28,3 +28,5 @@ Auteurs :
  - Fabien Rozar
  - Lucas GANGNANT
  - Jérome PATON
+ - Gaël EDMOND
+
